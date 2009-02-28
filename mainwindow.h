@@ -27,6 +27,7 @@ signals:
 
 private:
     Ui::MainWindowClass *ui;
+    
 };
 
 #endif // MAINWINDOW_H
