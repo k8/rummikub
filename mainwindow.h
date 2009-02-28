@@ -18,7 +18,7 @@ public:
 
 public slots:
     void startServer();
-    void stopServer();\
+    void stopServer();
 
     void print(const QString & message);
 

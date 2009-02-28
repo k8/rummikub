@@ -11,3 +11,7 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+void MainWindow::startServer() {}
+void MainWindow::stopServer() {}
+
+void MainWindow::print(const QString & message) {}
